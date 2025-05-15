@@ -36,8 +36,8 @@ DevOps: Docker, GitHub Actions, CI/CD
 <summary>🎮 <strong>3D Rendering & Data Visualization</strong></summary>
 <br/>
 
-[VTK](https://vtk.org/) Contributor
-[Godot engine](https://godotengine.org/) Contributor
+[VTK](https://vtk.org/) Contributor  
+[Godot engine](https://godotengine.org/) Contributor  
 [Qt](https://www.qt.io/), C++  
 Master thesis: 3D volumetric data, transfer functions, digital terrain formation, geomorphons  
 
