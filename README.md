@@ -41,8 +41,6 @@ DevOps: Docker, GitHub Actions, CI/CD
 [Qt](https://www.qt.io/), C++  
 Master thesis: 3D volumetric data, transfer functions, digital terrain formation, geomorphons  
 
-**Projects:**
----
 </details>
 
 <details>
