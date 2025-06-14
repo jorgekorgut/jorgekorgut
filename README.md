@@ -22,29 +22,47 @@ Auth: Auth0, OIDC, JWT, Cookies, Sessions
 DevOps: Docker, GitHub Actions, CI/CD  
 
 **Projects:**
-- [💊 Website Developper](https://portal.praxysante.fr)
-- [🍕 Website Maintainer](https://o-kiosque.fr)
-- [🖥️ Portfolio 2022](https://github.com/jorgekorgut/portifolio-2022)  
-- [🎨 Customizable Website](https://github.com/jorgekorgut/customizable-website)  
-- [🌿 Green Hacking Hackathon](https://github.com/jorgekorgut/hackathon-green-hacking)
+- [Website Developper](https://portal.praxysante.fr)
+- [Website Maintainer](https://o-kiosque.fr)
+- [Portfolio 2022](https://github.com/jorgekorgut/portifolio-2022)  
+- [Customizable Website](https://github.com/jorgekorgut/customizable-website)  
+- [Green Hacking Hackathon](https://github.com/jorgekorgut/hackathon-green-hacking)
 
 ---
 
 </details>
 
 <details>
-<summary>🎮 <strong>3D Rendering & Data Visualization</strong></summary>
+<summary>🎮 <strong>Games</strong></summary>
+<br/>
+C#, Unity, 
+Java, Java Swing,
+C++, OpenGL, HLSL
+Mathematics, Physics, 3D, 2D
+
+**Projects:**
+- [Sum.io Game](https://github.com/jorgekorgut/sum.io)
+- [aRYTHMetic Game](https://github.com/jorgekorgut/gamejam-arhythmetic)
+- [fake-news Game](https://github.com/jorgekorgut/game-fake-news)
+---
+</details>
+
+
+<details>
+<summary>📊 <strong>3D Rendering & Data Visualization</strong></summary>
 <br/>
 
 [VTK](https://vtk.org/) Contributor  
 [Godot engine](https://godotengine.org/) Contributor  
 [Qt](https://www.qt.io/), C++  
-Master thesis: 3D volumetric data, transfer functions, digital terrain formation, geomorphons  
 
+**Projects:**
+- [Master thesis](https://github.com/jorgekorgut/master-thesis): 3D volumetric data, transfer functions, digital terrain formation, geomorphons  
+---
 </details>
 
 <details>
-<summary>🧬 <strong>Compiler Construction</strong></summary>
+<summary>🧬 <strong>Low Level Programming</strong></summary>
 <br/>
 
 ANTLR4, grammar parsing, lexers  
@@ -52,7 +70,7 @@ Unit tests with CTest
 Written in C++
 
 **Projects:**
-- [🧮 Calculator Compiler Playground](https://github.com/jorgekorgut/playground-calculator-compiler)
+- [Calculator Compiler Playground](https://github.com/jorgekorgut/playground-calculator-compiler)
 ---
 </details>
 
@@ -65,8 +83,8 @@ Group management, real-time connections
 Built using Java, C, Shell
 
 **Projects:**
-- [💬 C Chat Service](https://github.com/jorgekorgut/c-chat-service)  
-- [🎮 Sum.io Game](https://github.com/jorgekorgut/sum.io)
+- [C Chat Service](https://github.com/jorgekorgut/c-chat-service)  
+- [Sum.io Game](https://github.com/jorgekorgut/sum.io)
 ---
 </details>
 
@@ -79,7 +97,7 @@ Design Patterns (GoF)
 C++
 
 **Projects:**
-- [🧠 Custom Quadtree Playground](https://github.com/jorgekorgut/playground-custom-quadtree)
+- [Custom Quadtree Playground](https://github.com/jorgekorgut/playground-custom-quadtree)
 ---
 </details>
 
@@ -92,9 +110,9 @@ Object-Oriented & Data-Oriented Programming
 C++
 
 **Projects:**
-- [🔥 Micro Aevol 2](https://github.com/jorgekorgut/micro-aevol2/micro-aevol2)  
-- [📊 Parallel Analysis](https://github.com/jorgekorgut/playground-parallel-analysis)  
-- [📦 Data-Oriented Playground](https://github.com/jorgekorgut/playground-data-oriented-programming)
+- [Micro Aevol 2](https://github.com/jorgekorgut/micro-aevol2/micro-aevol2)  
+- [Parallel Analysis](https://github.com/jorgekorgut/playground-parallel-analysis)  
+- [Data-Oriented Playground](https://github.com/jorgekorgut/playground-data-oriented-programming)
 ---
 </details>
 
@@ -105,7 +123,7 @@ C++
 MATLAB image processing and clustering
 
 **Projects:**  
-- [🖼️ Image Processing](https://github.com/jorgekorgut/image-processing-cclair)
+- [Image Processing](https://github.com/jorgekorgut/image-processing-cclair)
 ---
 </details>
 
@@ -117,14 +135,14 @@ Deep Learning, Neural Networks
 LLMs (Large Language Models), GANs, Pix2Pix  
 
 **Projects:**
-- [💬 Large Language Model from scratch](https://github.com/jorgekorgut/playground-language-model)
+- [Large Language Model from scratch](https://github.com/jorgekorgut/playground-language-model)
 ---
 </details>
 
 ---
 
 ## 📬 Connect with Me
-
+- [🎮 Itch.io](https://jorgekorgut.itch.io/)
 - [🔗 LinkedIn](https://www.linkedin.com/in/jorgekorgutjunior/)  
 - [📧 Email](mailto:jorgekorgut@hotmail.com)
 
