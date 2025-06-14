@@ -35,10 +35,11 @@ DevOps: Docker, GitHub Actions, CI/CD
 <details>
 <summary>🎮 <strong>Games</strong></summary>
 <br/>
-C#, Unity, 
-Java, Java Swing,
-C++, OpenGL, HLSL
-Mathematics, Physics, 3D, 2D
+  
+C#, Unity  
+Java, Java Swing  
+C++, OpenGL, HLSL  
+Mathematics, Physics, 3D, 2D  
 
 **Projects:**
 - [Sum.io Game](https://github.com/jorgekorgut/sum.io)
