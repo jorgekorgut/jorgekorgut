@@ -1,36 +1,16 @@
 ## 👋 Hi there!
 
-I'm **Jorge**, currently wrapping up my **double master’s degree** in Computer Science from **INSA Lyon (France)** and **Universität Passau (Germany)** — just one month to go! 🇫🇷 + 🇩🇪
+I'm **Jorge**, **double master’s degree** in Computer Science from **INSA Lyon (France)** and **Universität Passau (Germany)** 🇫🇷 + 🇩🇪
 
 ---
 
 ## 🎯 What I'm Passionate About
 
-I’m passionate about merging technology with creativity — particularly in the areas of **3D rendering**, **computer vision**, and **artificial intelligence**. I enjoy building systems that interpret and visualize the world, whether it's through real-time visuals or learning-based models.
+I’m passionate about merging technology with creativity, particularly in the areas of **3D rendering**, **computer vision**, and **artificial intelligence**. I enjoy building systems that interpret and visualize the world, whether it's through real-time visuals or learning-based models.
 
 ---
 
 ## 💼 Previous Experience
-
-<details>
-<summary>🌐 <strong>Web Development</strong></summary>
-<br/>
-
-Frontend: React, Next.js, Angular, Tailwind CSS, HTML, CSS, JavaScript  
-Backend: Node.js, Python, C#, Strapi, Directus  
-Auth: Auth0, OIDC, JWT, Cookies, Sessions  
-DevOps: Docker, GitHub Actions, CI/CD  
-
-**Projects:**
-- [Website Developper](https://portal.praxysante.fr)
-- [Website Maintainer](https://o-kiosque.fr)
-- [Portfolio 2022](https://github.com/jorgekorgut/portifolio-2022)  
-- [Customizable Website](https://github.com/jorgekorgut/customizable-website)  
-- [Green Hacking Hackathon](https://github.com/jorgekorgut/hackathon-green-hacking)
-
----
-
-</details>
 
 <details>
 <summary>🎮 <strong>Games</strong></summary>
@@ -43,7 +23,7 @@ Mathematics, Physics, 3D, 2D
 
 **Projects:**
 - [Sum.io Game](https://github.com/jorgekorgut/sum.io)
-- [aRYTHMetic Game](https://github.com/jorgekorgut/gamejam-arhythmetic)
+- [aRYTHMetic GameJam Submission](https://github.com/jorgekorgut/gamejam-arhythmetic) (1st Best Unique Mechanics)
 - [fake-news Game](https://github.com/jorgekorgut/game-fake-news)
 ---
 </details>
@@ -58,7 +38,7 @@ Mathematics, Physics, 3D, 2D
 [Qt](https://www.qt.io/), C++  
 
 **Projects:**
-- [Master thesis](https://github.com/jorgekorgut/master-thesis): 3D volumetric data, transfer functions, digital terrain formation, geomorphons  
+- [Master thesis](https://github.com/jorgekorgut/master-thesis): 3D volumetric data, transfer functions 
 ---
 </details>
 
@@ -67,8 +47,7 @@ Mathematics, Physics, 3D, 2D
 <br/>
 
 ANTLR4, grammar parsing, lexers  
-Unit tests with CTest  
-Written in C++
+Unit tests with CTest
 
 **Projects:**
 - [Calculator Compiler Playground](https://github.com/jorgekorgut/playground-calculator-compiler)
@@ -81,7 +60,7 @@ Written in C++
 
 Cryptography, sockets, threads, custom protocol  
 Group management, real-time connections  
-Built using Java, C, Shell
+Java, C, Shell
 
 **Projects:**
 - [C Chat Service](https://github.com/jorgekorgut/c-chat-service)  
@@ -138,6 +117,26 @@ LLMs (Large Language Models), GANs, Pix2Pix
 **Projects:**
 - [Large Language Model from scratch](https://github.com/jorgekorgut/playground-language-model)
 ---
+</details>
+
+<details>
+<summary>🌐 <strong>Web Development</strong></summary>
+<br/>
+
+Frontend: React, Next.js, Angular, Tailwind CSS, HTML, CSS, JavaScript  
+Backend: Node.js, Python, C#, Strapi, Directus  
+Auth: Auth0, OIDC, JWT, Cookies, Sessions  
+DevOps: Docker, GitHub Actions, CI/CD  
+
+**Projects:**
+- [Website Developper](https://portal.praxysante.fr)
+- [Website Maintainer](https://o-kiosque.fr)
+- [Portfolio 2022](https://github.com/jorgekorgut/portifolio-2022)  
+- [Customizable Website](https://github.com/jorgekorgut/customizable-website)  
+- [Green Hacking Hackathon](https://github.com/jorgekorgut/hackathon-green-hacking)
+
+---
+
 </details>
 
 ---
